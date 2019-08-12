@@ -69,5 +69,6 @@
     <orderEntry type="library" exported="" name="Gradle: commons-codec-1.10" level="project" />
     <orderEntry type="library" exported="" name="Gradle: transaction-api-1.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: flogger-system-backend-0.3.1" level="project" />
+    <orderEntry type="module" module-name="jokeGenerator" exported="" />
   </component>
 </module>
